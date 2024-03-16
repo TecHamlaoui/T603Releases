@@ -1,0 +1,17 @@
+[
+  {
+    "name": "TeamViewer Quick Support",
+    "version": "1.0",
+    "download_url": "https://github.com/your_username/Addons/TVQS.zip"
+  },
+  {
+    "name": "Another Addon",
+    "version": "2.5",
+    "download_url": "https://github.com/your_username/Addons/another-addon.zip"
+  },
+  {
+    "name": "Yet Another Addon",
+    "version": "3.2",
+    "download_url": "https://github.com/your_username/Addons/yet-another-addon.zip"
+  }
+]
